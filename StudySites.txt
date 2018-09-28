@@ -1,0 +1,9 @@
+C#
+https://www.softwaretestinghelp.com/c-sharp-interview-questions/
+
+OOPs
+https://www.codeproject.com/Articles/774578/Diving-in-OOP-Day-Polymorphism-and-Inheritance-Dyn
+
+SQL theory with practice
+https://www.guru99.com/sql-interview-questions-answers.html
+https://www.hackerrank.com/
